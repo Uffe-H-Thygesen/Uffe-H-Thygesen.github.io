@@ -4,7 +4,7 @@ This is my personal main github page. Here you can find information on:
 
 ## [SDEbook](../SDEbook)
 
-My book on Stochastic Differential Equations for Science and Engineering, to be published by Taylor & Francis / CRC, in 2023. This web page is still being polished but contains source code for figures, solutions to exercises, and supplementary course material. 
+My book on Stochastic Differential Equations for Science and Engineering, published by Taylor & Francis / CRC, in 2023. This web page is contains source code for figures, solutions to exercises, and supplementary course material. It is still being polished. 
 
 ## [SDEtools](../SDEtools)
 
