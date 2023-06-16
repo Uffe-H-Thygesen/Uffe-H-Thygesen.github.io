@@ -8,4 +8,4 @@ My book on Stochastic Differential Equations for Science and Engineering, publis
 
 ## [SDEtools](../SDEtools)
 
-My R-package for working with stochastic differential equations, including simulation, estimation, and optimal control. The package is in a [github repository](https://github.com/Uffe-H-Thygesen/SDEtools)). The documentation is still being expanded. 
+My R-package for working with stochastic differential equations, including simulation, estimation, and optimal control. The package is in a [github repository](https://uffe-h-thygesen.github.io/SDEtools/). The documentation is still being expanded. 
